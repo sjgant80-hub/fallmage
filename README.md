@@ -2,7 +2,7 @@
 
 > The Photoshop wedge. One HTML file. No server. No subscription. Open · crop · rotate · resize · filter · text · brush · layers · export.
 >
-> v1 · prime **433** · MIT · ◊·κ=1
+> v1 · prime **1423** · MIT · ◊·κ=1
 
 **Live:** [sjgant80-hub.github.io/fallmage](https://sjgant80-hub.github.io/fallmage/)
 **Source:** [github.com/sjgant80-hub/fallmage](https://github.com/sjgant80-hub/fallmage)
@@ -92,7 +92,7 @@ Press **Ctrl+K**. Type plain English. Examples that just work:
 | **UI** | runs from `file://` |
 | **Compute** | T0 in-browser Canvas · T2 your local Ollama · T3 your direct API call (Ω only) |
 | **Storage** | IndexedDB for settings · documents kept in memory · export downloads |
-| **Mesh** | `BroadcastChannel('fall-signal')` · prime 433 · responds to ping · `postMessage` API |
+| **Mesh** | `BroadcastChannel('fall-signal')` · prime 1423 · responds to ping · `postMessage` API |
 
 ## What this does NOT do (by design)
 
@@ -155,4 +155,4 @@ Add to the `PRESETS` object — `{w, h}`. Palette picks it up. Ω auto-routes on
 - Same cascade pattern as [FallOffice](https://github.com/sjgant80-hub/falloffice), [FallMap](https://github.com/sjgant80-hub/fallmap), [ACG Mapper](https://github.com/sjgant80-hub/acg-mapper)
 - Mage / image · the name was earned not chosen
 
-⚒ Part of the [fall* estate](https://github.com/sjgant80-hub) · prime 433 · ◊·κ=1
+⚒ Part of the [fall* estate](https://github.com/sjgant80-hub) · prime 1423 · ◊·κ=1
