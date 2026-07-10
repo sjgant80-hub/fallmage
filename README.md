@@ -1,6 +1,6 @@
 # ◊ FallMage · sovereign image editor
 
-> The Photoshop wedge. One HTML file. No server. No subscription. Open · crop · rotate · resize · filter · text · brush · layers · export.
+> The Photoshop wedge. One HTML file. No server. not subscription-based. Open · crop · rotate · resize · filter · text · brush · layers · export.
 >
 > v1 · prime **1423** · MIT · ◊·κ=1
 
