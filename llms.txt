@@ -1,6 +1,6 @@
 # fallmage
 
-> ◊ FallMage · sovereign Photoshop wedge · single HTML · open · crop · rotate · resize · filter · text · brush · layers · Ω autopilot · prime 433 · MIT
+> ◊ FallMage · sovereign Photoshop wedge · single HTML · open · crop · rotate · resize · filter · text · brush · layers · Ω autopilot · MIT
 
 fallmage is a sovereign, MIT-licensed build by Simon Gant (UK) — it runs in the browser, is free to own and fork, and is part of the AI Native Solutions estate. Source and a live page are linked below.
 
